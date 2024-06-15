@@ -6,3 +6,6 @@ categories: blog
 ---
 
 这是我的第一篇博客文章！
+
+# 插入图片
+![alt text](../assets/lib/image/2024-06-15-my-first-post/image.png)
