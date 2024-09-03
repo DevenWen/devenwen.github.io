@@ -2,7 +2,7 @@
 layout: post
 title: Erlang OTP：Process 如何使用 Alias 改进消息通信
 date: 2024-08-25 11:32:00 +0800
-categories: ["技术工具"]
+categories: ["Erlang&Elixir"]
 ---
 
 (以下内容由内容和 claude ai 协作完成)
